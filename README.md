@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<Tahir Khan Restaurant (TKR) Official Website>🌱 I’m currently learning<python>
+I'm Muhammad Shahkaar, a BS Management Sciences Student at GIK Institute, Topi, Swabi, KPK. I love building projects that can help others:)
 
 
 ## 🌐 Socials:
