@@ -1,21 +1,81 @@
-# 💫 About Me:
-I'm Muhammad Shahkaar, a BS Management Sciences Student at GIK Institute, Topi, Swabi, KPK. I love building projects that can help others:)
+# 👋 Hello, World! I'm Shahkaar Gul
 
+**Management Sciences Student | Tech-Driven Problem Solver | Aspiring Product Manager**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shahkaargul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahkaar._.gul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahkaargul) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahkaar._.gul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contactshahkaar@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahkaargul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahkaargul&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahkaargul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm a Bachelor of Science in Management Sciences student at **Ghulam Ishaq Khan Institute (GIKI)** with a passion for leveraging technology to solve real-world business problems. I bridge the gap between business strategy and technical execution by building applications that streamline processes, enhance user experience, and create tangible value.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shahkaargul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 My Philosophy
+
+I believe that the most impactful solutions lie at the intersection of business acumen and technical capability. My unique perspective allows me to not only identify operational inefficiencies but also to build the digital tools needed to fix them. I am passionate about creating technology that is both powerful and accessible, making people's work easier and more effective.
+
+---
+
+## 🛠️ Tech & Toolbox
+
+I equip myself with the following technologies to bring my ideas to life:
+
+**Frontend Development:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Programming & Logic:**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Tools & Workflow:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+A collection of tools I've built to demonstrate my problem-solving approach:
+
+1.  **GIKI Aggregate Calculator** - A practical web tool used by hundreds of prospective students to calculate their admission aggregate score, simplifying a critical step in their application process.
+    - [View Live](https://shahkaargul.github.io/GIKIAggregateCalc/) | [Source Code](https://github.com/shahkaargul/GIKIAggregateCalc)
+
+2.  **Student Registration Form** - A responsive, user-friendly form with live validation, showcasing my focus on creating seamless and efficient user experiences.
+    - [View Live](https://shahkaargul.github.io/RegForm/) | [Source Code](https://github.com/shahkaargul/RegForm)
+
+3.  **College Reunion Website** - A dynamic event management site, demonstrating my ability to build for specific audiences and purposes.
+    - [View Live](https://shahkaargul.github.io/College-Reunion/) | [Source Code](https://github.com/shahkaargul/College-Reunion)
+
+---
+
+## 🎯 Career Aspirations
+
+I am actively seeking roles where I can apply my dual expertise in management and technology. My goal is to transition into a **Product Management**, **Business Analysis**, or **Technical Project Management** role, where I can drive the development of products that are commercially viable and user-centric.
+
+---
+
+## 🌱 What I'm Exploring Now
+
+-   Deepening my understanding of **Data Analysis** with Python and SQL to derive actionable business insights.
+-   Studying principles of **UI/UX Design** to build more intuitive and effective applications.
+-   Learning about **Product Development Lifecycles** and agile methodologies.
+
+---
+
+## 📞 Let's Connect!
+
+I'm always interested in discussing new ideas, opportunities, or potential collaborations. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahkaar-gul-/)
+[![Gmail](https://img.shields.io/badge/Gmail-Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahkaargul786@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20my%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahkaargul)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahkaargul&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>“The best way to predict the future is to create it.” — Peter Drucker</i>
+</p>
