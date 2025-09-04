@@ -35,16 +35,32 @@ I equip myself with the following technologies to bring my ideas to life:
 
 ## 💼 Featured Projects
 
-A collection of tools I've built to demonstrate my problem-solving approach:
+### 🚀 GIKIPrepHub – Your All-in-One GIKI Admission Companion
+A comprehensive platform designed to centralize all resources for GIKI aspirants. It features a modern, responsive interface with multiple pages including a home page, subject-wise preparation guides, a blog, a FAQ section, and a contact page.
+- **Key Features:** Multi-page Navigation, Responsive Design, Subject-specific Resources, Blog & FAQ Integration.
+- [View Live](https://shahkaargul.github.io/GIKIPrepHub/) | [Source Code](https://github.com/shahkaargul/GIKIPrepHub)
 
-1.  **GIKI Aggregate Calculator** - A practical web tool used by hundreds of prospective students to calculate their admission aggregate score, simplifying a critical step in their application process.
-    - [View Live](https://shahkaargul.github.io/GIKIAggregateCalc/) | [Source Code](https://github.com/shahkaargul/GIKIAggregateCalc)
+### 🔢 GIKI Aggregate Calculator
+A practical web tool used by hundreds of prospective students to calculate their admission aggregate score, simplifying a critical step in their application process.
+- [View Live](https://shahkaargul.github.io/GIKIAggregateCalc/) | [Source Code](https://github.com/shahkaargul/GIKIAggregateCalc)
 
-2.  **Student Registration Form** - A responsive, user-friendly form with live validation, showcasing my focus on creating seamless and efficient user experiences.
-    - [View Live](https://shahkaargul.github.io/RegForm/) | [Source Code](https://github.com/shahkaargul/RegForm)
+### 📝 Student Registration Form
+A responsive, user-friendly form with live validation, showcasing my focus on creating seamless and efficient user experiences.
+- [View Live](https://shahkaargul.github.io/RegForm/) | [Source Code](https://github.com/shahkaargul/RegForm)
 
-3.  **College Reunion Website** - A dynamic event management site, demonstrating my ability to build for specific audiences and purposes.
-    - [View Live](https://shahkaargul.github.io/College-Reunion/) | [Source Code](https://github.com/shahkaargul/College-Reunion)
+### 🎓 College Reunion Website
+A dynamic event management site, demonstrating my ability to build for specific audiences and purposes.
+- [View Live](https://shahkaargul.github.io/College-Reunion/) | [Source Code](https://github.com/shahkaargul/College-Reunion)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahkaargul&show_icons=true&theme=default" alt="Shahkaar's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahkaargul&" alt="GitHub Streak" />
+</p>
 
 ---
 
